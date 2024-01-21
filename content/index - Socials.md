@@ -1,5 +1,5 @@
 ---
-title: About Page
+title: Socials page
 ---
 <body>
-<h2> About
+<h2> Socials </h2>
