@@ -1,5 +1,4 @@
-<html>
 ---
-<title> Home Page <title/>
+title: Home Page
 ---
-<head> Welcome! <head/>
+<h1\> Welcome! <h1/>
