@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "keisukehere.github.io/herb-dictionary/",
+    baseUrl: "Keisukehere.github.io/herb-dictionary/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
