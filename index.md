@@ -1,4 +1,4 @@
 ---
-Title: Home Page
+title: Home Page
 ---
 Hello, world!
