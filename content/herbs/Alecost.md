@@ -1,2 +1,2 @@
 Related:[[Herb list]]
-this is a test
+this is an herb
