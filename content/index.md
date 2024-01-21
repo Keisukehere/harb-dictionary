@@ -7,14 +7,7 @@ title: Home Page
 <nav>
 <ul>
 <li>
-<a href="#">Herb list</a>
-</li>
-<li>
-<a href="#">About</a>
-</li>
-<li>
-<a href="#">Socials</a>
-</li>
+<a href="#">Herb list</a> </li> <li> <a href="#">About</a> </li> <li> <a href="#">Socials</a> </li>
 </ul>
 </nav>
 <h5> To get started go to the link below </h5>
