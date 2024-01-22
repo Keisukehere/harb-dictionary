@@ -13,7 +13,7 @@ title: Home Page
 <a href="https://keisukehere.github.io/harb-dictionary/index---about">About</a>
 </li>
 <li>
-<a href="#">Socials</a>
+<a href="https://keisukehere.github.io/harb-dictionary/index---Socials">Socials</a>
 </li>
 </ul>
 </nav>
